@@ -1,1 +1,3 @@
 Hello. This is a practice for GitHub. 
+Names: 
+Lex, Cod, Zeke, Lyka
